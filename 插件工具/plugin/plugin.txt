@@ -1,0 +1,8 @@
+﻿[lib]
+./
+
+[field]
+id,yozo.plugin.config
+
+[pane]
+yozo.plugin.view.MainPanel,永中插件配置开发
